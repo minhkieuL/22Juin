@@ -1,0 +1,127 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 oct. 2018, 18:46:20
+    Author     : Minh kiêu
+*/
+
+.ca
+{
+	 
+	 
+	border:1px solid grey;
+	
+	 background-image: url("../../img/mapmonde.jpg");
+	 
+	 background-attachment: fixed;
+	
+	
+	padding-top: 50px;/* Valeur de la marge externe du haut */
+	padding-right: 50px;/*Valeur de la marge externe de droite */
+	padding-bottom: 173px;/* Valeur de la marge externe du bas */
+	padding-left: 50px;/* Valeur de la marge externe de gauche */
+}
+.p{
+	border:1px solid grey;
+	
+	 background-image: url("../../img/mapmonde.jpg");
+	 
+	 background-attachment: fixed;
+	
+	
+	
+}
+
+.pla
+{
+	border:1px solid grey;
+	
+	 background-image: url("../../img/mapmonde.jpg");
+	 
+	 background-attachment: fixed;
+	
+	
+
+}
+
+.pho
+{
+	
+	
+	 background-image: url("../../img/mapmonde.jpg");
+	 
+	 background-attachment: fixed;
+	
+	
+	
+}
+h1
+{
+	text-align:center;
+	font-family: Bradley Hand ITC ;
+	font-size: 50px;
+	
+	
+}
+
+.date
+{
+	 padding-top:20px; 
+}
+
+ul
+{
+	
+	text-align:center;
+	font-family: Bookshelf Symbol 7;
+	font-size: 20px;
+        
+        padding-top: 0px;/* Valeur de la marge externe du haut */
+	padding-right: 0px;/*Valeur de la marge externe de droite */
+	padding-bottom: 0px;/* Valeur de la marge externe du bas */
+	padding-left: 0px;/* Valeur de la marge externe de gauche */
+}
+
+.garde
+{
+	
+
+	padding-left:20px;
+	
+	
+}
+
+a:hover{
+	color :rgb(0,55,111);
+}
+
+.titre
+{
+	 padding-top:50px; 
+}
+
+div{
+	 text-align:center;
+}
+table
+{
+margin: 0 auto;
+border:2px solid grey;
+}
+td
+{
+text-align :center;
+}
+
+.salle
+{
+	text-align :center;
+}
+
+tr
+{
+    text-align :center;
+}

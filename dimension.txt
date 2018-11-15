@@ -1,0 +1,6 @@
+150 m2-> 100
+375m2-> 250
+
+dimension table ronde : diametre 150 ; diametre nappe 200
+dimension table rectangle 8-10 personnes : 80*190 ; nappe 140*250
+
